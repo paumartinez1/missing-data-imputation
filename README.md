@@ -11,7 +11,7 @@ Concerns about fairness in data aren't new; they've been around long before AI b
 One major issue about data quality is the presence of missing values. When these gaps exist in the dataset, they can disrupt the seamless flow of data through various processes in the analytical pipeline, such as data visualization. Missing values can also affect the predictive power of machine learning methods. This mini project explores machine learning imputation techniques to address the presence of missing values.
 
 ## Solution Abstract
-This exploration tested the effect of different imputation techniques to the predictive power of machine learning models. For single imputation methods, the mean and the mode were used. For multiple imputation methods, `scikit-learn`'s `KNNImputer` and `IterativeImputer` were used. Only the default parameters of the classifiers and imputers were utilized to clearly attribute any improvement in accuracy to the imputation technique used.
+This exploration tested the effect of different imputation techniques on the predictive power of machine learning models. For single imputation methods, the mean and the mode were used. For multiple imputation methods, `scikit-learn`'s `KNNImputer` and `IterativeImputer` were used. Only the default parameters of the classifiers and imputers were utilized to clearly attribute any improvement in accuracy to the imputation technique used.
 
 ## What's Next?
 - **The Need for Hypertuning and More Data**
