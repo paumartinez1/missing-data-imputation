@@ -1,4 +1,4 @@
-<h1><img src="title.png"></h1>
+<h1><img src="title1.png"></h1>
 
 <h1>Project Description</h1>
 In light of the pervasive integration of AI into decision-making processes, it becomes increasingly crucial to prioritize the fairness of these algorithms. The imperative here is to ensure that these systems remain unbiased and do not discriminate in favor of specific demographic groups, including considerations related to gender, race, or nationality. Upholding fairness in AI is not merely a technological concern but a fundamental ethical principle to prevent unjust disparities and promote equitable outcomes across diverse populations.
